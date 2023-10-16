@@ -1,7 +1,7 @@
 # Task Manager Web App <a href="https://harsh-cheema.github.io/Task-Tracker/">Live</a>
 
 Task Manager App
-<img src="https://harsh-cheema.github.io/Task-Tracker/blob/main/Assets/Images/Home.png?raw=true"></img>
+<img src="https://harsh-cheema.github.io/Task-Tracker/main/Assets/Images/Home.png?raw=true"></img>
 
 This web application is designed to help you manage your tasks effectively. It's built using HTML, CSS, JavaScript, Bootstrap, and Particle.js. The app provides CRUD (Create, Read, Update, Delete) functionality for tasks, allowing you to add, edit, change status, and delete tasks. Additionally, the app supports search, filter, and sort operations within the task table.
 
@@ -64,9 +64,9 @@ This web application is designed to help you manage your tasks effectively. It's
 
 ## Screenshots
 
-<img src="https://harsh-cheema.github.io/Task-Tracker/blob/main/Assets/Images/view-task.png?raw=true"></img>
+<img src="https://harsh-cheema.github.io/Task-Tracker/main/Assets/Images/view-task.png?raw=true"></img>
 *Screenshot: Task List*
 
-<img src="https://harsh-cheema.github.io/Task-Tracker//blob/main/Assets/Images/add-task.png?raw=true"></img>
+<img src="https://harsh-cheema.github.io/Task-Tracker/main/Assets/Images/add-task.png?raw=true"></img>
 *Screenshot: Add Task*
 
