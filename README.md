@@ -35,8 +35,8 @@ This web application is designed to help you manage your tasks effectively. It's
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/harshraj29/Task-Manager`
-2. Navigate to the project directory: `cd Task-Manager`
+1. Clone the repository: `git clone https://github.com/harsh-cheema/Task-Tracker`
+2. Navigate to the project directory: `cd Task-Tracker`
 
 3. Open `index.html` in your web browser to access the app.
 
